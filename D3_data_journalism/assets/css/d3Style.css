@@ -4,6 +4,17 @@
   text-anchor: middle;
 }
 
+
+.cText {
+  font-family: sans-serif;
+  font-size: 12px;
+  text-anchor: middle;
+  font-weight: bold;
+  fill: whitesmoke;
+  border: darkblue;
+}
+
+
 .active {
   font-weight: bold;
   fill: #000;
